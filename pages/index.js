@@ -40,7 +40,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <img src="/Halcyonic.png" className={styles.icon} />
+        <img src="C:\Users\leewe\Desktop\new-image-generator\public\Halcyonic.png" className={styles.icon} />
         <h3>Generate an Image!</h3>
         <form onSubmit={onSubmit}>
           <input
