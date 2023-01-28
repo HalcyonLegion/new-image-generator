@@ -36,11 +36,11 @@ export default function Home() {
     <div>
       <Head>
         <title>Image Generator powered by OpenAI & PollinationsAI</title>
-        <link rel="icon" href="public/Halcyonic.png" />
+        <link rel="icon" href="\Halcyonic.png" />
       </Head>
 
       <main className={styles.main}>
-        <img src="public/Halcyonic.png" className={styles.icon} />
+        <img src="\Halcyonic.png" className={styles.icon} />
         <h3>Generate an Image!</h3>
         <form onSubmit={onSubmit}>
           <input
