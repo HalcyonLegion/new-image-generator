@@ -36,7 +36,7 @@ export default function Home() {
     <div>
       <Head>
         <title>Image Generator powered by OpenAI & PollinationsAI</title>
-        <link rel="icon" href="/Halcyonic.png" />
+        <link rel="icon" href="C:\Users\leewe\Desktop\new-image-generator\public\Halcyonic.png" />
       </Head>
 
       <main className={styles.main}>
